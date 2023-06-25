@@ -14,7 +14,7 @@ Project for MFDP by ITMO
 - [Contributing](#contributing)
 - [FAQ](#faq)
 - [Команда проекта](#команда-проекта)
-- [Источники](#источники)
+- [Ссылки](#ссылки)
 
 ## Технологии
 - [TensorFlow](https://www.tensorflow.org/)
@@ -54,7 +54,7 @@ docker run -p 5000:5000 my_flask_app
 
 - [Вячеслав Синяев](https://www.linkedin.com/in/vyacheslavsinyaev/) — ML Engineer
 
-## Источники
+## Ссылки
 - [Ссылка на используемый датасет](https://www.kaggle.com/datasets/jonathanoheix/face-expression-recognition-dataset)
-- [Используемая модель нейронной сети](https://drive.google.com/drive/folders/1O8iUhff9_K6LkWjDNLDFcstX7I-OAjrn?usp=drive_link)
+- [Модели нейронной сети](https://drive.google.com/drive/folders/1O8iUhff9_K6LkWjDNLDFcstX7I-OAjrn?usp=drive_link)
 - [Репозиторий на докерхаб](https://hub.docker.com/repository/docker/egelvein/mfdp/general)
