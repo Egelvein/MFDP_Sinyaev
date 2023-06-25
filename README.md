@@ -56,4 +56,4 @@ docker run -p 5000:5000 my_flask_app
 
 ## Источники
 - [Ссылка на используемый датасет](https://www.kaggle.com/datasets/jonathanoheix/face-expression-recognition-dataset)
-- [Используема модель нейронной сети](https://drive.google.com/file/d/1yZ-yU8XAQ4MsnXGZ51125DdM08en835f/view?usp=drive_link)
+- [Используемая модель нейронной сети](https://drive.google.com/drive/folders/1O8iUhff9_K6LkWjDNLDFcstX7I-OAjrn?usp=drive_link)
