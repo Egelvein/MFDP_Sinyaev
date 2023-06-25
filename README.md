@@ -1,5 +1,5 @@
 # MFDP_Sinyaev
-Project for MFDP by ITMO
+Project for MFDP by ITMO.
 Проект находится в ветке master.
 
 # IFG (I feel good)
