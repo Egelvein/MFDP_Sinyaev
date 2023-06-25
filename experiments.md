@@ -19,5 +19,5 @@
 
 ### Модель с двойным размер свёрточных ядер (относительно тех, которые используются на данный момент) + Adam:
 
-![](exp_images/ADAM_Kernel2x_acc.png)
+![](exp_images/ADAM_kernel2x_acc.png)
 ![](exp_images/ADAM_Kernel2x_loss.png)
