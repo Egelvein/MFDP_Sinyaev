@@ -30,7 +30,7 @@ docker pull egelvein/mfdp:v1
 ```
 
 ```sh
-docker run egelvein/mfdp:v1
+docker run -p 5000:5000 egelvein/mfdp:v1
 ```
 
 Также Вы можете создать контейнер самостоятельно, для этого необходимо:
